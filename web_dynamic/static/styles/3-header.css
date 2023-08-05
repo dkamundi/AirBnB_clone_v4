@@ -1,3 +1,10 @@
+/* web_dynamic/static/styles/3-header.css */
+
+/* Add this rule for the "available" class */
+#api_status.available {
+	background-color: #ff545f;
+}
+
 header {
     background: white;
     height: 70px;
